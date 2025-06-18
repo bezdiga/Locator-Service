@@ -1,0 +1,16 @@
+{
+    "name": "HatchStudio.ServiceLocator.Sample",
+    "rootNamespace": "HatchStudio.ServiceLocator.Sample",
+    "references": [
+        "GUID:a93edf637bb50164dadd27f2b0758964"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
