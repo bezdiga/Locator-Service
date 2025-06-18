@@ -1,8 +1,8 @@
 {
   "name": "com.hatchstudio.service-locator",
   "version": "1.0.0",
-  "displayName": "Nume Pachet",
-  "description": "Descrierea sistemului tău.",
+  "displayName": "Service Locator",
+  "description": "A simple service locator implementation for Unity",
   "unity": "2021.3",
   "author": {
     "name": "HatchStudio",
